@@ -59,3 +59,4 @@ This project helped in understanding **C structures, modular programming, pointe
 ## Project Type
 
 **Mini Project – Embedded C / C Programming**
+<img width="966" height="445" alt="image" src="https://github.com/user-attachments/assets/f9622181-391b-4cc0-bb11-9bff0b7bb4e1" />
